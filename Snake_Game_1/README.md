@@ -73,6 +73,14 @@ Classic minimalist implementations of Snake on HTML5 Canvas, similar to early tu
 
 ---
 
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Output Screenshots/Snake.png" width="48%" />
+</p>
+
+---
+
 ## 📫 Contact
 
 - GitHub: [@Mithun0017](https://github.com/Mithun0017)  
